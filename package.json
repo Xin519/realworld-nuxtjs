@@ -1,0 +1,26 @@
+{
+  "name": "zhao-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nuxt", 
+    "build": "nuxt build", 
+    "start": "nuxt start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.21.1",
+    "nuxt": "^2.15.0"
+  },
+  "dependencies": {
+    "cookieparser": "^0.1.0",
+    "dayjs": "^1.10.4",
+    "element-ui": "^2.15.0",
+    "express": "^4.17.1",
+    "js-cookie": "^2.2.1",
+    "markdown-it": "^12.0.4"
+  }
+}
